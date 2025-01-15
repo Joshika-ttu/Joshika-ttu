@@ -1,4 +1,4 @@
-## Hi there 👋
+# Little-Lemon-database
 
 <!--
 **Joshika-ttu/Joshika-ttu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
